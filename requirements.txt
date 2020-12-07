@@ -6,7 +6,7 @@ libmozdata==0.1.68
 lmdb==0.98
 matplotlib==3.3.0
 mercurial==5.4.2
-microannotate==0.0.20
+microannotate==0.0.23
 mozci==1.6.5
 numpy==1.19.1
 orjson==3.3.0
